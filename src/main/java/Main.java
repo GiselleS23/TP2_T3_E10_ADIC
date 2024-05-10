@@ -1,4 +1,5 @@
-/* 10.- Desarrollar un diagrama que determine la suma de las cifras de un número entero positivo. Ejemplo: Nro 962 9+6+2=17; 1+7=8 por lo tanto el Resultado es 8. */
+/* 10.- Desarrollar un diagrama que determine la suma de las cifras de un número entero positivo. Ejemplo: Nro 962 9+6+2=17; 1+7=8 por lo tanto el Resultado es 8.
+Sacchetti, Maria Giselle C2*/
 
 import java.util.Scanner;
 
